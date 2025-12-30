@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently in Cdac Bengaluru<br>🤝<br>🌱 I’m currently learning Advance Java<br><br>⚡ Fun fact
-         
+           
 ## 🌐 Socials         
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kawinash10@gmail.com) 
 
