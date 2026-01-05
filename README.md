@@ -1,4 +1,4 @@
-# 💫 About Me:          
+# 💫 About Me:           
 🔭 I’m currently in Cdac Bengaluru<br>🤝<br>🌱 I’m currently learning Advance Java<br><br>⚡ Fun fact   
                    
 ## 🌐 Socials             
